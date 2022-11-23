@@ -880,11 +880,3 @@
 1526093416 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\math.h
 	<crtdefs.h>
 
-1669202189 source:c:\users\rawan_khedr\desktop\cg\rawan reda khedr -mohamedd magdy elattar\main.cpp
-	<GL/gl.h>
-	<GL/glu.h>
-	<GL/glut.h>
-	<stdlib.h>
-	<windows.h>
-	<math.h>
-
